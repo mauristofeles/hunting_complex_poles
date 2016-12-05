@@ -4,9 +4,7 @@ Python code for the paper
 
 Elaborated by:
 
-Mauricio Garcia-Vergara*
-Guillaume Demesy
-Frederic Zolla
+Mauricio Garcia-Vergara*, Guillaume Demésy and Frédéric Zolla
 
 *corresponding author: mauricio.garcia-vergara@fresnel.fr
 
