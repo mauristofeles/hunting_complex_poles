@@ -12,3 +12,5 @@ Affiliation:
 Aix-Marseille Universite, CNRS, Centrale Marseille,Institut Fresnel UMR 7249, 13013 Marseille, France
 
 website: http://www.fresnel.fr/spip/spip.php?article1317
+
+This program is compatible with python 2.7 and python 3.5
