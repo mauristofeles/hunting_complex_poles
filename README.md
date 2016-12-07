@@ -1,6 +1,6 @@
 # hunting_complex_poles
 Python code that reproduces the numerical results of the paper:
-"Extracting an accurate model for permittivity from experimental data : Hunting complex poles from the real line"
+"Extracting an accurate model for permittivity from experimental data : Hunting complex poles from the real line", the arXiv version can be found at : https://arxiv.org/abs/1612.01876
 
 Elaborated by:
 
